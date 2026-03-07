@@ -1,0 +1,17 @@
+EXPORTS
+sqlite3_open
+sqlite3_close
+sqlite3_exec
+sqlite3_prepare_v2
+sqlite3_step
+sqlite3_finalize
+sqlite3_bind_text
+sqlite3_bind_int
+sqlite3_bind_double
+sqlite3_column_int
+sqlite3_column_double
+sqlite3_column_text
+sqlite3_errmsg
+sqlite3_last_insert_rowid
+sqlite3_changes
+sqlite3_free
